@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P03_ClassJournal</string>
+    <string name="email_faci">EMAIL FACI</string>
+    <string name="add">ADD</string>
+    <string name="info">INFO</string>
+    <string name="weekvalue">weekValue</string>
+    <string name="daily_grade">Daily Grade</string>
+    <string name="a">A</string>
+    <string name="dg">DG</string>
+    <string name="rp_web">https://www.rp.edu.sg/schools-courses/courses/full-time-diplomas/full-time-courses/modules/index/</string>
+</resources>
